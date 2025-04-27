@@ -9,7 +9,7 @@ Download Link: https://krypton29.itch.io/runner-of-god
 https://www.youtube.com/watch?v=J-_8NoWO_wc
 
 ![image](https://github.com/user-attachments/assets/5d3f639d-1645-4dc8-9ca8-2291f2c3a88c)
-![image](https://github.com/user-attachments/assets/c07b6097-8d01-4a0e-ad4c-5cc5ba145075)
+![image](https://github.com/user-attachments/assets/04fe267e-eef1-4d9a-a2aa-80c42e21961f)
 ![image](https://github.com/user-attachments/assets/81ab8f86-b806-4ca7-aabf-5451c12e3b6f)
 ![image](https://github.com/user-attachments/assets/dd712d50-038f-4336-8f83-e6c57b680dec)
 ![image](https://github.com/user-attachments/assets/bccab266-6dcb-4260-93e0-c5b4e82c6334)
