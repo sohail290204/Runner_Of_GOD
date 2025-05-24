@@ -2,7 +2,7 @@ Runner of GOD
 
 Runner of God is an endless runner game inspired by God of War. You play as Kratos, chasing the villain Hades through the heavenly realm to expel him. Along the way, you'll face dynamic obstacles like fire beacons, columns, and rolling spheres, as well as enemies like fire dragons and blasting bees.
 Kratos wields multiple axes, each with unique powers, such as healing, attack boosts, or freezing enemies. Axes can be thrown or used in hand-to-hand combat, with cooldown mechanics and durability management adding strategic depth. Players collect coins to unlock axes, activate Rage Mode for powerful attacks, and utilize power-ups like Coin Magnet or Health Boxes to stay alive.
-The game also features customizable controls, settings for visual effects like day/night modes, and immersive audio with haptic feedback for a thrilling gameplay experience.
+
 
 Download Link: https://krypton29.itch.io/runner-of-god
 
